@@ -6,3 +6,4 @@ To start a simple HTTP server in the current directory, use the following comman
 
 ```bash
 python3 -m http.server
+
